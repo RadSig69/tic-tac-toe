@@ -21,8 +21,6 @@ $ npm install
 # Run the app
 $ npm start
 ```
-## :link: Demo
-  - <a target="_blank" href="https://github.com/RadSig69/tic-tac-toe/"> Click Here </a> to see and play by yourself a demo of the game.
 
 ## :mailbox: Contact
   - <a target="_blank" href="mailto:rajdeepsingh3dec@gmail.com">E-mail</a>
